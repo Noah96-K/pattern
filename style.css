@@ -1,0 +1,21 @@
+.box-first {
+  width: 80px;
+  height: 50px;
+  background-color: beige;
+  border: 2px solid cadetblue;
+}
+
+.box {
+  display: flex;
+}
+
+.box-first:hover {
+  background-color: coral;
+}
+
+.box__column .clicked {
+  width: 80px;
+  height: 50px;
+  background-color: black;
+  border: 2px solid cadetblue;
+}

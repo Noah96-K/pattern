@@ -1,0 +1,12 @@
+body{
+    width: 600px;
+    margin: 100px auto;
+}
+
+.triangle{
+    height: 0px;
+    width:0px;
+    border: 100px solid;
+
+ 
+}
