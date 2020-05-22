@@ -1,0 +1,173 @@
+.grid {
+  display: flex;
+}
+
+.grid__column:nth-child(2),
+.grid__column:nth-child(4),
+.grid__column:nth-child(6),
+.grid__column:nth-child(8),
+.grid__column:nth-child(10),
+.grid__column:nth-child(12),
+.grid__column:nth-child(14),
+.grid__column:nth-child(16),
+.grid__column:nth-child(18),
+.grid__column:nth-child(20),
+.grid__column:nth-child(22),
+.grid__column:nth-child(24),
+.grid__column:nth-child(26),
+.grid__column:nth-child(28),
+.grid__column:nth-child(30),
+.grid__column:nth-child(32) {
+  /* margin-left: -58px; */
+}
+.grid__column:nth-child(2) {
+  position: relative;
+
+  left: -58px;
+}
+.ld-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: bisque;
+  border-right-color: bisque;
+  border-left-color: transparent;
+  margin-left: 20px;
+}
+.click-ld-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: black;
+  border-right-color: black;
+  border-left-color: transparent;
+  margin-left: 20px;
+}
+
+.rd-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: bisque;
+  border-right-color: transparent;
+  border-left-color: bisque;
+}
+.click-rd-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: black;
+  border-right-color: transparent;
+  border-left-color: black;
+}
+/* .d-t {
+  height: 0;
+  width: 0;
+  border: 20px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: bisque;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+.click-d-t {
+  height: 0;
+  width: 0;
+  border: 20px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: black;
+  border-right-color: transparent;
+  border-left-color: transparent;
+} */
+.r-t {
+  height: 0;
+  width: 0;
+  border: 20px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: bisque;
+}
+.click-r-t {
+  height: 0;
+  width: 0;
+  border: 20px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: black;
+}
+.l-t {
+  height: 0;
+  width: 0;
+  border: 20px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-right-color: bisque;
+  border-left-color: transparent;
+}
+.click-l-t {
+  height: 0;
+  width: 0;
+  border: 20px solid;
+  margin: 0px;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-right-color: black;
+  border-left-color: transparent;
+}
+
+.lt-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: bisque;
+  border-top-color: transparent;
+  border-right-color: bisque;
+  border-left-color: transparent;
+  margin-left: 20px;
+}
+.click-lt-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: black;
+  border-top-color: transparent;
+  border-right-color: black;
+  border-left-color: transparent;
+  margin-left: 20px;
+}
+.rt-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: bisque;
+  border-top-color: transparent;
+  border-left-color: bisque;
+  border-right-color: transparent;
+}
+.click-rt-t {
+  height: 0;
+  width: 0;
+  border: 10px solid;
+  margin: 0px;
+  border-bottom-color: black;
+  border-top-color: transparent;
+  border-left-color: black;
+  border-right-color: transparent;
+}

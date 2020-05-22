@@ -1,12 +1,14 @@
-body{
-    width: 600px;
-    margin: 100px auto;
+body {
+  width: 600px;
+  margin: 100px auto;
 }
 
-.triangle{
-    height: 0px;
-    width:0px;
-    border: 100px solid;
-
- 
+.triangle {
+  height: 0px;
+  width: 0px;
+  border: 100px solid;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
 }
